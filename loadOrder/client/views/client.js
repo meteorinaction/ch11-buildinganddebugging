@@ -1,0 +1,1 @@
+console.log('client/views/client.js loaded');

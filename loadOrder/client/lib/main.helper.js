@@ -1,0 +1,1 @@
+console.log('client/lib/main.helper.js loaded');

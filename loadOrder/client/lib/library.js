@@ -1,0 +1,1 @@
+console.log('client/lib/library.js loaded');

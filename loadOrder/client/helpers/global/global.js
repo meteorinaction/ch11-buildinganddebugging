@@ -1,0 +1,1 @@
+console.log('client/helpers/global/global.js loaded');

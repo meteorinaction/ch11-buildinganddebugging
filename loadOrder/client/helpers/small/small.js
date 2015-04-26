@@ -1,0 +1,1 @@
+console.log('client/helpers/small/small.js loaded');

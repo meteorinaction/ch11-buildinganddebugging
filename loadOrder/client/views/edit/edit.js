@@ -1,0 +1,1 @@
+console.log('client/views/edit/edit.js loaded');
