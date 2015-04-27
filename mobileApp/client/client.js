@@ -1,5 +1,9 @@
+Meteor.startup(function () {
+  Geolocation.currentLocation();
+});
+
 Template.location.helpers({
   currentPosition: function () {
-    return false;
+    return Geolocation.currentLocation();
   }
 });

@@ -29,13 +29,13 @@
   {{#with currentPosition}}
   <h2>You are here: </h2>
   <ul>
-    <li>Lat: {{debug.coords.latitude}}</li>
-    <li>Lng: {{debug.coords.longitude}}</li>
-    <li>Accuracy: {{debug.coords.accuracy}}</li>
-    <li>Altitude: {{debug.coords.altitude}}</li>
-    <li>Altitude Accuracy: {{debug.coords.altitudeAccuracy}}</li>
-    <li>Speed: {{debug.coords.speed}}</li>
-    <li>Heading: {{debug.coords.heading}}</li>
+    <li>Lat: {{currentPosition.coords.latitude}}</li>
+    <li>Lng: {{currentPosition.coords.longitude}}</li>
+    <li>Accuracy: {{currentPosition.coords.accuracy}}</li>
+    <li>Altitude: {{currentPosition.coords.altitude}}</li>
+    <li>Altitude Accuracy: {{currentPosition.coords.altitudeAccuracy}}</li>
+    <li>Speed: {{currentPosition.coords.speed}}</li>
+    <li>Heading: {{currentPosition.coords.heading}}</li>
   </ul>
   {{else}}
   <h2>Where are you?</h2>
