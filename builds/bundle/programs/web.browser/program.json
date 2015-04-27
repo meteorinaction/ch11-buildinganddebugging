@@ -1,0 +1,40 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "6c7fa30f43b19eedcd82b3d4b7e31e92b4cb7f29.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/6c7fa30f43b19eedcd82b3d4b7e31e92b4cb7f29.js",
+      "size": 330611,
+      "hash": "6c7fa30f43b19eedcd82b3d4b7e31e92b4cb7f29"
+    },
+    {
+      "path": "20ae2c8d51b2507244e598844414ecdec2615ce3.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/20ae2c8d51b2507244e598844414ecdec2615ce3.css",
+      "sourceMap": "20ae2c8d51b2507244e598844414ecdec2615ce3.css.map",
+      "sourceMapUrl": "/20ae2c8d51b2507244e598844414ecdec2615ce3.map",
+      "size": 30,
+      "hash": "20ae2c8d51b2507244e598844414ecdec2615ce3"
+    },
+    {
+      "path": "app/image.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/image.png",
+      "size": 0,
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "0a98659f8efba1523570aead627da03a8d93afdf"
+    }
+  ]
+}
