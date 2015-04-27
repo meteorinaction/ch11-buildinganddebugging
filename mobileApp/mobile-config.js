@@ -49,3 +49,11 @@ App.launchScreens({
   'android_xhdpi_portrait': 'mobile-resources/android/splash/drawable-port-xhdpi-screen.png',
   'android_xhdpi_landscape': 'mobile-resources/android/splash/drawable-land-xhdpi-screen.png'
 });
+
+// Whitelisting URLs
+App.accessRule('https://*.googleapis.com/*');
+App.accessRule('https://*.google.com/*');
+App.accessRule('https://*.gstatic.com/*');
+App.accessRule('https://pbs.twimg.com/*');
+App.accessRule('http://graph.facebook.com/*');
+App.accessRule('https://graph.facebook.com/*');
