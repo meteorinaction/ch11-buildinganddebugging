@@ -1,0 +1,11 @@
+{
+  "oauth": {
+    "twitter": {
+      "apikey": "123abc",
+      "secret": "abc123"
+    }
+  },
+  "public": {
+    "version": "v1"
+  }
+}
