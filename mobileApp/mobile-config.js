@@ -57,3 +57,12 @@ App.accessRule('https://*.gstatic.com/*');
 App.accessRule('https://pbs.twimg.com/*');
 App.accessRule('http://graph.facebook.com/*');
 App.accessRule('https://graph.facebook.com/*');
+
+// App behavior and plugins
+App.setPreference('BackgroundColor', '0xff0000ff');
+App.setPreference('HideKeyboardFormAccessoryBar', true);
+
+//App.configurePlugin('com.phonegap.plugins.facebookconnect', {
+//  APP_ID: '1234567890',
+//  API_KEY: 'apikey'
+//});
