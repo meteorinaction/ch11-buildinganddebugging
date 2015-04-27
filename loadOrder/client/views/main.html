@@ -5,9 +5,17 @@
 <body>
   <h1>Welcome to Meteor!</h1>
 
-  {{> hello}}
+  {{> hello}} {{> settings}}
 </body>
 
 <template name="hello">
   <p>You can see the exact load order in the console messages.</p>
+</template>
+
+<template name="settings">
+  <ul>
+    {{#each settings}}
+    <li>{{this}}</li>
+    {{/each}}
+  </ul>
 </template>
