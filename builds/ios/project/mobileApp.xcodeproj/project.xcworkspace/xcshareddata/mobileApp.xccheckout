@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>587BD79B-1AD6-49EA-AD4F-895B573904C7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mobileApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7337ECFE03AECB33040135850A7D4D02B8859547</key>
+		<string>https://github.com/meteorinaction/ch11-buildinganddebugging.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mobileApp/.meteor/local/cordova-build/platforms/ios/mobileApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7337ECFE03AECB33040135850A7D4D02B8859547</key>
+		<string>../../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/meteorinaction/ch11-buildinganddebugging.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7337ECFE03AECB33040135850A7D4D02B8859547</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7337ECFE03AECB33040135850A7D4D02B8859547</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ch11-buildinganddebugging</string>
+		</dict>
+	</array>
+</dict>
+</plist>
