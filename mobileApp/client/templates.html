@@ -21,7 +21,7 @@
       </div>
     </div>
     <h1>Let's go</h1>
-    {{> location}}
+    {{> location}} {{> select}}
   </div>
 </body>
 
@@ -41,4 +41,14 @@
   <h2>Where are you?</h2>
   <p>I have no idea where you are!</p>
   {{/with}}
+</template>
+
+<template name="select">
+  <h2>Make a selection</h2>
+  <select id="platform">
+    <option value="">Android</option>
+    <option value="">Browser</option>
+    <option value="">iOS</option>
+    <option value="">Server</option>
+  </select>
 </template>
