@@ -3,6 +3,11 @@ Chapter 11: Building and debugging
 
 Code Samples and Snippets for the book Meteor in Action
 
+See a live version at
+
+-   <http://mia-chapter11a.meteor.com/> (`loadOrder`).
+-   <http://mia-chapter11b.meteor.com/> (`mobileApp`).
+
 ![Meteor in Action
 cover](http://www.manning.com/hochhaus/hochhaus_cover150.jpg)
 
